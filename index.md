@@ -16,7 +16,7 @@ This is info for project 1
 
 This is info for project 2
 
-# C# Project
+## C# Project
 
 [https://github.com/GothicLolita229/CSC-253-Mortuus](url)
 
