@@ -20,4 +20,6 @@ This is info for project 2
 
 [https://github.com/GothicLolita229/CSC-253-Mortuus](url)
 
+<a href="https://github.com/GothicLolita229/CSC-253-Mortuus">Mortuus project</a>
+
 
