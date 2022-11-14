@@ -11,7 +11,9 @@ Here are a list of projects I'm working on:
 
 ## Dataman Project
 
-This is info for project 1
+[https://github.com/GothicLolita229/CTS285-Dataman](url)
+
+<a href="https://github.com/GothicLolita229/CTS285-Dataman">Dataman</a>
 
 ## Website Project
 
