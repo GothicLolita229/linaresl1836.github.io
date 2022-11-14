@@ -5,6 +5,7 @@ dev blog: https://linaresl1836.github.io/dev-blog
 
 pre-installed GitHub Jekyll Themes: https://pages.github.com/themes/
 
+Website URL: https://gothiclolita229.github.io/linaresl1836.github.io/
 
 Here are a lsit of projects I'm working on:
 
