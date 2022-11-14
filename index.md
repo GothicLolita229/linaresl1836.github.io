@@ -11,7 +11,7 @@ Here are a list of projects I'm working on:
 
 ## Dataman Project
 
-[https://github.com/GothicLolita229/CTS285-Dataman](url)
+[Dataman](https://github.com/GothicLolita229/CTS285-Dataman)
 
 <a href="https://github.com/GothicLolita229/CTS285-Dataman">Dataman</a>
 
@@ -21,7 +21,7 @@ This is info for project 2
 
 ## C# Project
 
-[https://github.com/GothicLolita229/CSC-253-Mortuus](url)
+[Mortuus]((https://github.com/GothicLolita229/CSC-253-Mortuus)
 
 <a href="https://github.com/GothicLolita229/CSC-253-Mortuus">Mortuus project</a>
 
