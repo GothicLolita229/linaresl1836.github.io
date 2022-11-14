@@ -26,3 +26,5 @@ This is info for project 2
 <a href="https://github.com/GothicLolita229/CSC-253-Mortuus">Mortuus project</a>
 
 ## More Info to come
+
+A list of Jekyll themes: https://pages.github.com/themes/
