@@ -7,13 +7,13 @@ pre-installed GitHub Jekyll Themes: https://pages.github.com/themes/
 
 Website URL: https://gothiclolita229.github.io/linaresl1836.github.io/
 
-Here are a lsit of projects I'm working on:
+Here are a list of projects I'm working on:
 
-## Project 1
+## Dataman Project
 
 This is info for project 1
 
-## Project 2
+## Website Project
 
 This is info for project 2
 
