@@ -21,7 +21,7 @@ This is info for project 2
 
 ## C# Project
 
-[Mortuus]((https://github.com/GothicLolita229/CSC-253-Mortuus)
+[Mortuus](https://github.com/GothicLolita229/CSC-253-Mortuus)
 
 <a href="https://github.com/GothicLolita229/CSC-253-Mortuus">Mortuus project</a>
 
