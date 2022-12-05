@@ -11,15 +11,15 @@ Here are a list of projects I'm working on:
 
 ## Dataman Project
 
-[Dataman](https://github.com/GothicLolita229/CTS285-Dataman)
+[Dataman](https://github.com/GothicLolita229/CTS285-Dataman){:target="_blank"}
 
 ## Website Project
 
-[Co-Writers Website](https://github.com/GothicLolita229/Story-Co-Writing)
+[Co-Writers Website](https://github.com/GothicLolita229/Story-Co-Writing){:target="_blank"}
 
 ## C# Project
 
-<a href="https://github.com/GothicLolita229/CSC-253-Mortuus">Mortuus project</a>
+<a href="https://github.com/GothicLolita229/CSC-253-Mortuus" target="_blank">Mortuus project</a>
 
 ## More Info to come
 
