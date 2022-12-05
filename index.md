@@ -11,8 +11,8 @@ Here are a list of projects I'm working on:
   
   <li><a href="https://github.com/GothicLolita229/CSC-253-Mortuus" target="_blank">Mortuus project</a> - a simple text adventure game</li>
 
-
 </ul>
+
 ## Useful Links
 
 - A list of [Jekyll themes](https://pages.github.com/themes/)
