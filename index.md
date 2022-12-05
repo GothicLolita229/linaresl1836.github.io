@@ -18,6 +18,7 @@ Here are a list of projects I'm working on:
 - A list of [Jekyll themes](https://pages.github.com/themes/)
 - [GitHub Pages Quickstart](https://pages.github.com)
 - [Dev Blog](https://linaresl1836.github.io/dev-blog)
+- [GitHub Pages Styling Tips](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#quoting-code)
 - This Website's URL: https://gothiclolita229.github.io/linaresl1836.github.io/
 
 ## Description
