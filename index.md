@@ -8,19 +8,19 @@ pre-installed GitHub Jekyll Themes: https://pages.github.com/themes/
 Website URL: https://gothiclolita229.github.io/linaresl1836.github.io/
 
 Here are a list of projects I'm working on:
+<ul>
+  <li>## Dataman Project
 
-## Dataman Project
-
-[Dataman](https://github.com/GothicLolita229/CTS285-Dataman)
+      [Dataman](https://github.com/GothicLolita229/CTS285-Dataman) - a remake of the 80s math game</li>
 
 ## Website Project
 
-[Co-Writers Website](https://github.com/GothicLolita229/Story-Co-Writing)
+[Co-Writers Website](https://github.com/GothicLolita229/Story-Co-Writing) - a website where you can co-write stories with amateur authors
 
 ## C# Project
 
-<a href="https://github.com/GothicLolita229/CSC-253-Mortuus" target="_blank">Mortuus project</a>
+<a href="https://github.com/GothicLolita229/CSC-253-Mortuus" target="_blank">Mortuus project</a> - a simple text adventure game
+</ul>
+## Useful Links
 
-## More Info to come
-
-A list of Jekyll themes: https://pages.github.com/themes/
+A list of Jekyll [themes](https://pages.github.com/themes/):
