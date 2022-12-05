@@ -32,6 +32,8 @@ Amamteur authors will take the user input and create a story with the guidelines
 
 ## Code Snippets
 
+
+
 ## Diagrams
 
 ![M5T1-ContextDiagram_Linaresl1836](https://user-images.githubusercontent.com/90853197/205704427-895e08f7-0159-4684-8da7-d9aef27b8dec.png)
