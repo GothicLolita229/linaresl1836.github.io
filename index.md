@@ -1,11 +1,6 @@
 # linaresl1836.github.io
 GitHub Pages site
 
-dev blog: https://linaresl1836.github.io/dev-blog
-
-pre-installed GitHub Jekyll Themes: https://pages.github.com/themes/
-
-Website URL: https://gothiclolita229.github.io/linaresl1836.github.io/
 
 Here are a list of projects I'm working on:
 <ul>
@@ -22,6 +17,8 @@ Here are a list of projects I'm working on:
 
 - A list of [Jekyll themes](https://pages.github.com/themes/)
 - [GitHub Pages Quickstart](https://pages.github.com)
+- [Dev Blog](https://linaresl1836.github.io/dev-blog)
+- This Website's URL: https://gothiclolita229.github.io/linaresl1836.github.io/
 
 ## Description
 My Main project is the Co-Writers Website and it's a website that showcases young amateur author's work. This site gives users the opportunity to create stories even if they lack the skills to write great detail and have their words flow eloquently.
