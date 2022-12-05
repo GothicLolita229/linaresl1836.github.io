@@ -29,7 +29,23 @@ Amamteur authors will take the user input and create a story with the guidelines
 
 ## Code Snippets
 
-
+Here my open Preview button JavaScript Code Snippet
+```
+openPreviewButtons.forEach(button => {
+    button.addEventListener("click", () => {
+        formSubmit();
+        const preview = document.querySelector(button.dataset.previewTarget);
+        openPreview(preview);
+    });
+});
+overlay.addEventListener("click", () => {
+    const previews = document.querySelectorAll(".preview.active")
+    previews.forEach(preview => 
+        {
+            closePreview(preview)
+    });
+});
+```
 
 ## Diagrams
 
