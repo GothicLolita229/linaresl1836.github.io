@@ -9,7 +9,7 @@ Website URL: https://gothiclolita229.github.io/linaresl1836.github.io/
 
 Here are a list of projects I'm working on:
 <ul>
-  <li>## Dataman Project
+  ##<li>Dataman Project
 
       [Dataman](https://github.com/GothicLolita229/CTS285-Dataman) - a remake of the 80s math game</li>
 
