@@ -13,15 +13,11 @@ Here are a list of projects I'm working on:
 
 [Dataman](https://github.com/GothicLolita229/CTS285-Dataman)
 
-<a href="https://github.com/GothicLolita229/CTS285-Dataman">Dataman</a>
-
 ## Website Project
 
-This is info for project 2
+[Co-Writers Website](https://github.com/GothicLolita229/Story-Co-Writing)
 
 ## C# Project
-
-[Mortuus](https://github.com/GothicLolita229/CSC-253-Mortuus)
 
 <a href="https://github.com/GothicLolita229/CSC-253-Mortuus">Mortuus project</a>
 
